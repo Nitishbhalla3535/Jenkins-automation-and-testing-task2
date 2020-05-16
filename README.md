@@ -1,8 +1,10 @@
 # DEvops2
 
 > since It is always good to make a seperate directory for this type of work so i made a seperate directory using 
-the task allocated was as follows:
-mkdir /dir_name
+ mkdir /dir_name
+ 
+ the task allocated was as follows:
+
 
 >the first step was to create a container image that had Jenkins installed which was done using docker file 
 
