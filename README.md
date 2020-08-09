@@ -62,7 +62,7 @@ SCP is used to copy the data of the directory of container to the directory of l
 ![](project/task2-11.png)
 
 
-![](project/task2-12.png)
+
 
 for using the e-mail following thing is to be done
 
@@ -70,7 +70,7 @@ first go to manage Jenkins then configure the system scroll down till the e-mail
 
 
 
-![](project/task2-13.png)
+
 
 and some changes are to be made in Jenkins file too
 
