@@ -24,7 +24,7 @@
 
 To do ssh with the host system key needed to be generated using ssh-keygen
 
-![](project/task2-4.png)
+
 
 > Creation a job chain of job1, job2, job3 and job4 using build pipeline plugin in Jenkins 
 
