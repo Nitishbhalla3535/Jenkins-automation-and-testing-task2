@@ -80,7 +80,7 @@ and some changes are to be made in Jenkins file too
 
 >In JENKINS_JAVA_OPTION=changes are made
 
-and after this if there is an error, like in my case there was an error regarding authentication then you need turn on the access of the less secure website and turn off the 2 step login process.
+
 
 
 
